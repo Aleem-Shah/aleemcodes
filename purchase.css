@@ -1,0 +1,18 @@
+.apx{
+    font-family: 'Chela One', cursive;
+    margin-left: 500px;
+    font-size: 70px;
+}
+  
+header{
+    font-family: 'Chela One', cursive;
+    text-align: center;
+}
+html,body{
+    background-image: url("bg.jpg");
+   
+}
+.loop{
+    border: solid 4px gold;
+    border-radius: 16px;
+}
